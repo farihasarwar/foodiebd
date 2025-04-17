@@ -20,7 +20,6 @@ class ManageCategoriesScreen extends ConsumerWidget {
             return const Center(
               child: Text('No categories added yet'),
             );
-
           }
 
           return ListView.builder(

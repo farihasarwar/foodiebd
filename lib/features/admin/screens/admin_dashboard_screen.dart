@@ -38,7 +38,6 @@ class AdminDashboardScreen extends ConsumerWidget {
             selectedIcon: Icon(Icons.receipt_long),
             label: 'Orders',
           ),
-          //
           NavigationDestination(
             icon: Icon(Icons.person_outline),
             selectedIcon: Icon(Icons.person),
